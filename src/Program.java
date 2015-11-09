@@ -127,3 +127,15 @@ public class Program {
         }
     }
 }
+
+
+/***********************************************
+ Outputs
+ ***********************************************
+ Words Found: 939674
+ Words Not Found: 52466
+ Average comparisons of Words Found: 16.0
+ Average comparisons of Words Not Found: 9.0
+ comparisons of Words Found: 15284398
+ comparisons of Words Not Found: 515894
+ **/
